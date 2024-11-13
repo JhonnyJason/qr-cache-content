@@ -1,1 +1,12 @@
-{}
+{
+    "languageTag": "en",
+    "pageTitle": "QR-Code Cache",
+    "pageLocale": "en_US",
+    "pageURL": "https://qr-cache.dotv.ee/en",
+    "pageDescription": "This is a small PWA capable of storing QR-Codes for faster access. A QR-Code Cache ;-)",
+    "pageImageURL": "https://qr-cache.dotv.ee/en/img/icon.png",
+    "pageType": "website",
+
+    "content": {
+   }
+}
